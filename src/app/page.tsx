@@ -29,7 +29,7 @@ export default function Home() {
             </a>
           </div>
           <div className="items-center text-center">
-          <button className="text-white px-3 py-1 border-2 border-slate-50">Advanced Filter ></button>
+          <button className="text-white px-3 py-1 border-2 border-slate-50">Advanced Filter</button>
           </div>
         </div>
       </section>
